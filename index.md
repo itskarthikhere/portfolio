@@ -11,74 +11,51 @@ This Application can answer questions to any domain relating to the given corpus
 <center><img src="assets/img/chatbot.jpg"/></center>
 
 ---
-### Financial-Models-Numerical-Methods
+### Xray Analysis using Convolutional Neural Network
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/Financial-Models-Numerical-Methods)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/itskarthikhere/MachineLearning-DataScience-Projects/blob/main/CNN_Xray_pneumonia.ipynb)
 
-This is just a collection of topics and algorithms that in my opinion are interesting.
+Convolutional Neural Network is used to analyse a set of xrays and then predict if a person is being affected by pneumonia or not.
 
-It contains several topics that are not so popular nowadays, but that can be very powerful. Usually, topics such as PDE methods, Lévy processes, Fourier methods or Kalman filter are not very popular among practitioners, who prefers to work with more standard tools.
-The aim of these notebooks is to present these interesting topics, by showing their practical application through an interactive python implementation.
-
-<center><img src="assets/img/financial_modeling.jpg"/></center>
+<center><img src="assets/img/medical.jpg"/></center>
 
 ---
-### LSTM Neural Network for Time Series Prediction
+### LSTM Neural Network for Sentence Category Prediction
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/LSTM-Neural-Network-for-Time-Series-Prediction)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/itskarthikhere/MachineLearning-DataScience-Projects/blob/main/BCC_News_Data_Analysis.ipynb)
 
-The following article sections will briefly touch on LSTM neuron cells, give a toy example of predicting a sine wave then walk through the application to a stochastic time series. The article assumes a basic working knowledge of simple deep neural networks.
-
-<center><img src="https://camo.githubusercontent.com/a085b4fe60690252b8aa2de917c53fc3f63aec21aafea21c8f1ecb543d2c44cb/68747470733a2f2f7777772e616c74756d696e74656c6c6967656e63652e636f6d2f6173736574732f74696d652d7365726965732d70726564696374696f6e2d7573696e672d6c73746d2d646565702d6e657572616c2d6e6574776f726b732f73696e776176655f66756c6c5f7365712e706e67"/></center>
-
----
-### Text Classification
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/cnn-text-classification-tf#readme)
-
-It is slightly simplified implementation of Kim's Convolutional Neural Networks for Sentence Classification paper in Tensorflow.
+This Project is intented to study the given sentence with the help of Long Short Term Memory Network and analyse the new sentence into any one of the trained category.
 
 <center><img src="assets/img/text_classification.png"/></center>
 
 ---
-### Awesome Machine Learning
+### Distraction Detector
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/awesome-machine-learning)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/itskarthikhere/MachineLearning-DataScience-Projects/blob/main/Distraction_Detector.ipynb)
 
-A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by awesome-php.
+According to the CDC motor vehicle safety division, one in five car accidents is caused by a distracted driver. Sadly, this translates to 425,000 people injured and 3,000 people killed by distracted driving every year.
 
+In Order to reduce it this ,i have developed a machine learning model that as been traied with multiple classes of actions performed by a driver.if the driver is found to do any other action other that safe driving an alert will be triggered.
+
+<center><img src="assets/img/human_activity.jpg"/></center>
+
+---
+### Generative Adversarial Network
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/itskarthikhere/MachineLearning-DataScience-Projects/blob/main/GAN_for_dogs.ipynb)
+
+This Generative Adversarial Network is trained on many images of dogs and can generate fake images of the dogs.
 <center><img src="assets/img/machine_learning.jpg"/></center>
 
 ---
-### Gesture Recognizer
+### Sentiment Analysis
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/CNNGestureRecognizer)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/itskarthikhere/MachineLearning-DataScience-Projects/blob/main/imdb_moview_review_classification_tf_hub.ipynb)
 
-Gesture recognition via CNN neural network implemented in Keras + Theano + OpenCV
-
-Key Requirements: Python 3.6.1 OpenCV 3.4.1 Keras 2.0.2 Tensorflow 1.2.1 Theano 0.9.0 (obsolete and not supported any further)
-
-Suggestion: Better to download Anaconda as it will take care of most of the other packages and easier to setup a virtual workspace to work with multiple versions of key packages like python, opencv etc.
+Sentiment analysis system to predict the emotion on the viewers made with the data from imdb Dataset
 
 <center><img src="assets/img/gesture_recognition.jpg"/></center>
 
 ---
-### Human Activity Recognition
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/LSTM-Human-Activity-Recognition)
-
-Human Activity Recognition (HAR) using smartphones dataset and an LSTM RNN. Classifying the type of movement amongst six categories:
-
-WALKING,
-WALKING_UPSTAIRS,
-WALKING_DOWNSTAIRS,
-SITTING,
-STANDING,
-LAYING.
-Compared to a classical approach, using a Recurrent Neural Networks (RNN) with Long Short-Term Memory cells (LSTMs) require no or almost no feature engineering. Data can be fed directly into the neural network who acts like a black box, modeling the problem correctly. Other research on the activity recognition dataset can use a big amount of feature engineering, which is rather a signal processing approach combined with classical data science techniques. The approach here is rather very simple in terms of how much was the data preprocessed.
-
-Let's use Google's neat Deep Learning library, TensorFlow, demonstrating the usage of an LSTM, a type of Artificial Neural Network that can process sequential data / time series.
-
-<center><img src="assets/img/human_activity.jpg"/></center>
 
 
