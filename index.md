@@ -35,7 +35,7 @@ This Project is intented to study the given sentence with the help of Long Short
 
 According to the CDC motor vehicle safety division, one in five car accidents is caused by a distracted driver. Sadly, this translates to 425,000 people injured and 3,000 people killed by distracted driving every year.
 
-In Order to reduce it this ,i have developed a machine learning model that as been traied with multiple classes of actions performed by a driver.if the driver is found to do any other action other that safe driving an alert will be triggered.
+In Order to reduce it this ,i have developed a machine learning model that as been trained with multiple classes of actions performed by a driver.if the driver is found to do any other action other that safe driving an alert will be triggered.
 
 <center><img src="assets/img/human_activity.jpg"/></center>
 
