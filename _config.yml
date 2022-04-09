@@ -1,6 +1,13 @@
-title: Portfolio
+title: <p align="center"> Karthikeyan Shanmugasundaram </p>
 logo: /assets/img/logo.png
-description: I am working as an ML Engineer.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-minimal
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/itskarthikhere/">LinkedIn</a> |
+  <a href="https://github.com/itskarthikhere/MachineLearning-DataScience-Projects">GitHub</a>
+ 
+  <br>  
+  I'm working on Data Science, Augumented Reality, Machine learning & NLP related problems.
+  <br>
+  </p>
