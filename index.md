@@ -54,7 +54,7 @@ This Generative Adversarial Network is trained on many images of dogs and can ge
 
 Sentiment analysis system to predict the emotion on the viewers made with the data from imdb Dataset
 
-<center><img src="assets/img/gesture_recognition.jpg"/></center>
+<center><img src="assets/img/sentiment.png"/></center>
 
 ---
 
